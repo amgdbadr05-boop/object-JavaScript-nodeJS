@@ -1,6 +1,6 @@
 const ps = require("prompt-sync");
 const prompt = ps();
-/*
+
 // level one : 
 
 //Q 1 :
@@ -42,6 +42,16 @@ function getPro(object, key){
 console.log(`name : ` + getPro(book, "title"));
 console.log(`date of Published : `+getPro(book, "Published"));
 console.log(`author : `+getPro(book, "author"));
+
+
+
+
+
+
+
+
+
+
 
 
 // level two : 
@@ -145,6 +155,27 @@ console.log(`the total is ${order.clacTotal()} Rp`);
     
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //leval 3 :
 
 // Q 1 : 
@@ -182,7 +213,6 @@ for (let i = 0; i < items.length; i++){
 console.log(`total is : ${totalValu}`);
 console.log(`low stock is : `, lowStock);
 
-*/
 
 // Q 2 :
 let student = [
